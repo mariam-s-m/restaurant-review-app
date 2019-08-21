@@ -7,7 +7,7 @@ This project focus on accessibility, responsive design and a seamless offline ex
 Clone the GitHub repository. If you don't have Python installed, navigate to Python's [website](https://www.python.org/)  to download and install the software.
 
 ```
-$ git clone https://github.com/jcdesousa/mws-restaurant-stage-1
+$ git clone https://github.com/mariam-s-m/restaurant-review-app.git
 $ cd mws-restaurant-stage-1
 ```
 ## Usage
